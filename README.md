@@ -136,11 +136,7 @@ Este projeto tem como objetivo consolidar conhecimentos em:
 
 ---
 
-## 👩‍💻 Desenvolvedora
-
-Projeto desenvolvido por **Tayene Ramires** 💜
-Estudante de **Sistemas de Informação** e participante do **Bootcamp Generation Brasil**.
-
----
-
-✨ *Projeto educacional – Loja Joga&Joga* ✨
+## 👩‍💻 Autora
+**Tayene Ramires**  
+Estudante de Sistemas de Informação | Full Stack em formação  
+JavaScript • TypeScript • Node.js • NestJS • HTML • CSS • SQL
